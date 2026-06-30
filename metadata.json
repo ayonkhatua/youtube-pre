@@ -1,0 +1,6 @@
+{
+  "name": "Custom YouTube Player",
+  "description": "A background playing, ad-blocking custom YouTube client using WebView, MediaSession, and PiP support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
